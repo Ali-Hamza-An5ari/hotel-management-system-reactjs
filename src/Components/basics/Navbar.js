@@ -22,8 +22,6 @@ function Navbar({filterItem,menuList} ) {
                         {curElem}
                     </button>
                     )
-                    
-
                 })
             }
             </div>
