@@ -5,7 +5,6 @@ import { CheckCircleOutlined } from '@ant-design/icons';
 import 'antd/dist/antd.css';
 
 function MenuCard({menuData} ) {
-    //console.log(menuData);
   return (
     <>
         <section className="main-card--cointainer">
